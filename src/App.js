@@ -14,6 +14,8 @@ import Payment from "./components/Payment";
 import CartProvider from "./components/CartContext";
 import CartAddedProduct from "./components/CartPreview2";
 import OrderFinalization from "./components/OrderFinalization";
+import { HashRouter } from "react-router-dom";
+
 
 
 
@@ -71,10 +73,10 @@ function AppRoutes() {
 function App() {
   return (
     <CartProvider>
-          <BrowserRouter>
-              <AppRoutes />
-         </BrowserRouter>
-    </CartProvider>
+    <HashRouter>
+      <AppRoutes />
+    </HashRouter>
+  </CartProvider>
       );
 }
 
