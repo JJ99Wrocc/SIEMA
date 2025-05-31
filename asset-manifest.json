@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SIEMA/static/css/main.f304eaf0.css",
-    "main.js": "/SIEMA/static/js/main.dad4abd9.js",
+    "main.js": "/SIEMA/static/js/main.fc877f96.js",
     "static/js/453.580b51bb.chunk.js": "/SIEMA/static/js/453.580b51bb.chunk.js",
     "static/media/jewelry_header_1920px.png": "/SIEMA/static/media/jewelry_header_1920px.dc8d695296007ab79af5.png",
     "static/media/jewelry_header_1200px.png": "/SIEMA/static/media/jewelry_header_1200px.969090e30e0a317ff61c.png",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/SIEMA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/SIEMA/index.html",
     "main.f304eaf0.css.map": "/SIEMA/static/css/main.f304eaf0.css.map",
-    "main.dad4abd9.js.map": "/SIEMA/static/js/main.dad4abd9.js.map",
+    "main.fc877f96.js.map": "/SIEMA/static/js/main.fc877f96.js.map",
     "453.580b51bb.chunk.js.map": "/SIEMA/static/js/453.580b51bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f304eaf0.css",
-    "static/js/main.dad4abd9.js"
+    "static/js/main.fc877f96.js"
   ]
 }
